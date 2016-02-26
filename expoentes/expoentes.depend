@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456449288 source:/home/joao/github/estruturas/recursao/expoentes/main.c
+	<stdio.h>
+	<stdlib.h>
+
